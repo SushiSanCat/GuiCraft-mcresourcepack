@@ -1,4 +1,4 @@
-![Re-ReColourful Containers](https://github.com/user-attachments/assets/fcff1394-0293-482f-b8d5-9107c6f65f06)
+<img src="https://github.com/user-attachments/assets/fcff1394-0293-482f-b8d5-9107c6f65f06" alt="Re-ReColourful Containers" width="300"/>
 
 **ALL CREDITS GOES TO VI_TUL [Vi_Tul's Profile](https://modrinth.com/user/Vi_Tul)**  
 
@@ -53,7 +53,7 @@ This pack requires [OptiGUI](https://modrinth.com/mod/optigui) for full function
 
 #### 📜 Notes:
 - This is a **resource pack** – from Recolourful Containers.    
-- Designed for Minecraft **1.21.5**.  
+- Designed for Minecraft **1.21.6**.  
 - Changes your default crosshair ( + ) into dot ( . ) crosshair  
 - Changes your default widgets UI into Touched UI theme  
 - Changes your hotbar into a numbered hotbar  
