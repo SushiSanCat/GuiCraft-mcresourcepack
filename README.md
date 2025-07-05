@@ -7,6 +7,7 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/OptiGUI-Required-blue?style=flat-square" />
+  <img src="https://img.shields.io/badge/Animatica-Required-blueviolet?style=flat-square" />
   <img src="https://img.shields.io/badge/Supported%20Mods-15%2B-success?style=flat-square" />
 </p>
 
@@ -29,14 +30,19 @@
 | 🏷️ Labeled Shulker GUIs | Matching dark interface for all variants. |
 | 🎯 Dot Crosshair | Minimalist, precise aiming. |
 | 🟨 Gold Hotbar Selection | Glowing gold selection slot. |
+| 🌀 Smooth GUI Animations | Enhanced transitions with **Animatica** support. |
 
 <p align="center">✨ ✨ ✨</p>
 
-### 🧩 Dependency
+### 🧩 Dependencies (Required)
 
-This pack requires [OptiGUI](https://modrinth.com/mod/optigui) for full functionality. Make sure to have it installed alongside GuiCraft!
+This pack requires both of the following mods for **full functionality and visual fidelity**:
 
-> ⚠️ **Warning:** Without **OptiGUI**, containers such as barrels, chests, ender chests, and shulker boxes will **not appear fully colored** or **lack their intended unique designs**. For the full visual experience, OptiGUI is essential.
+- [OptiGUI](https://modrinth.com/mod/optigui) – Enables advanced GUI replacements for containers.
+- [Animatica](https://modrinth.com/mod/animatica) – Enables animated GUI transitions and effects.
+
+> ⚠️ **Important:** Without **OptiGUI**, many textures (like colored barrels, chests, and shulkers) will **not render properly**.  
+> ❗ **Missing Animatica** will cause **animated elements** (such as transitions or shimmering slots) to appear static or glitchy.
 
 <p align="center">✨ ✨ ✨</p>
 
@@ -52,7 +58,7 @@ This pack requires [OptiGUI](https://modrinth.com/mod/optigui) for full function
 
 <p align="center">✨ ✨ ✨</p>
 
-### Textures Preview
+### 🎨 Textures Preview
 
 <p align="center">
   <img src="https://github.com/user-attachments/assets/40cc37ac-b3a5-465c-bf39-569aaf507a40" width="200"/><br><b>Smoker</b>
@@ -68,4 +74,4 @@ This pack requires [OptiGUI](https://modrinth.com/mod/optigui) for full function
   <img src="https://github.com/user-attachments/assets/3dafd003-2922-4665-9a42-089af77301cc" width="200"/><br><b>Inventory</b>
 </p>
 
-<p align="center"><b>✨ Download now and transform your Minecraft experience! ✨</b></p>
+<p align="center"><b>✨ Download now and transform your Minecraft GUI with a sleek, animated experience! ✨</b></p>
